@@ -1,0 +1,6 @@
+{
+  "name": "Frontendtest",
+  "tagline": "Used for test frontend code",
+  "body": "# frontendTest\r\n##Used for test frontend code\r\n####Just used for test\r\n- git clone\r\n- git add\r\n- git commit -m [message]\r\n- git push\r\n\r\n####Test Github Desktop\r\n- Create a branch\r\n- Add commits\r\n- Open a Pull Request\r\n- Discuss and review your code\r\n- Deploy\r\n- Merge\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
