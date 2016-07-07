@@ -1,6 +1,6 @@
 {
   "name": "Frontendtest",
   "tagline": "Used for test frontend code",
-  "body": "# frontendTest\r\n##Used for test frontend code\r\n####Just used for test\r\n- git clone\r\n- git add\r\n- git commit -m [message]\r\n- git push\r\n\r\n####Test Github Desktop\r\n- Create a branch\r\n- Add commits\r\n- Open a Pull Request\r\n- Discuss and review your code\r\n- Deploy\r\n- Merge\r\n\r\n",
+  "body": "\r\n# Skill and demo\r\n\r\n## Web page basic knowledge\r\n\r\n####Skill\r\n      - html\r\n      - css\r\n      - javascript\r\n\r\n####Demo\r\n\r\n - [demo for company home page](html/task7.html)\r\n - [demo for dashboard](html/task9.html)\r\n - [demo for responsive design](html/task8.html)\r\n\r\n## Languages/Frameworks\r\n\r\n####Skill\r\n      - JQuery\r\n      - React\r\n      - AngularJS\r\n      - Node.JS,NPM\r\n\r\n####Demo\r\n\r\n - [demo for JQuery](html/XXX.html)\r\n - [demo for React](html/XXX.html)\r\n - [demo for AngularJS](html/XXX.html)\r\n\r\n## Tools/Processes\r\n\r\n####Skill\r\n      - Git,svn\r\n      - Package managers(npm,bower)\r\n      - Grunt,webpack\r\n\r\n\r\n----------\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
