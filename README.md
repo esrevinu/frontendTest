@@ -9,9 +9,10 @@
       - javascript
 
 ####Demo
-      - demo for company home page
-      - demo for dashboard
-      - demo for responsive design
+
+ - [demo for company home page](html/task7.html)
+ - [demo for dashboard](html/task9.html)
+ - [demo for responsive design](html/task8.html)
 
 ## Languages/Frameworks
 
@@ -22,9 +23,10 @@
       - Node.JS,NPM
 
 ####Demo
-      - demo for JQuery
-      - demo for React
-      - demo for AngularJS
+
+ - [demo for JQuery](html/XXX.html)
+ - [demo for React](html/XXX.html)
+ - [demo for AngularJS](html/XXX.html)
 
 ## Tools/Processes
 
