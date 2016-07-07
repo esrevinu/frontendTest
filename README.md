@@ -1,16 +1,39 @@
-# frontendTest
-##Used for test frontend code
-####Just used for test
-- git clone
-- git add
-- git commit -m [message]
-- git push
 
-####Test Github Desktop
-- Create a branch
-- Add commits
-- Open a Pull Request
-- Discuss and review your code
-- Deploy
-- Merge
+# Skill and demo
+
+## Web page basic knowledge
+
+####Skill
+      - html
+      - css
+      - javascript
+
+####Demo
+      - demo for company home page
+      - demo for dashboard
+      - demo for responsive design
+
+## Languages/Frameworks
+
+####Skill
+      - JQuery
+      - React
+      - AngularJS
+      - Node.JS,NPM
+
+####Demo
+      - demo for JQuery
+      - demo for React
+      - demo for AngularJS
+
+## Tools/Processes
+
+####Skill
+      - Git,svn
+      - Package managers(npm,bower)
+      - Grunt,webpack
+
+
+----------
+
 
