@@ -14,3 +14,6 @@
 - Deploy
 - Merge
 
+####Test WebStorm
+- Install Markdown Navigator
+
