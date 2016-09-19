@@ -7,33 +7,33 @@
         "contractTimeslotTime" : "下午 5:00"
       }
     },
-    "MNFU2CH/A" : "NONE",
-    "MNG02CH/A" : "NONE",
-    "MNFR2CH/A" : "NONE",
-    "MNRL2CH/A" : "ALL",
-    "MNH12CH/A" : "ALL",
-    "MNH42CH/A" : "NONE",
-    "MNH72CH/A" : "NONE",
-    "MNRM2CH/A" : "NONE",
-    "MNFX2CH/A" : "NONE",
-    "MNH02CH/A" : "ALL",
-    "MNGY2CH/A" : "ALL",
-    "MNFQ2CH/A" : "NONE",
-    "MNGX2CH/A" : "NONE",
-    "MNGR2CH/A" : "NONE",
-    "MNH32CH/A" : "NONE",
-    "MNRK2CH/A" : "NONE",
-    "MNFT2CH/A" : "NONE",
-    "MNFW2CH/A" : "NONE",
-    "MNH62CH/A" : "NONE",
-    "MNFY2CH/A" : "NONE",
-    "MNFP2CH/A" : "NONE",
-    "MNGT2CH/A" : "ALL",
-    "MNGW2CH/A" : "ALL",
-    "MNH52CH/A" : "NONE",
-    "MNGQ2CH/A" : "NONE",
-    "MNH22CH/A" : "NONE",
-    "MNFV2CH/A" : "NONE"
+    "MNFU2CH/A" : "NONE",//iPhone 7 Plus 128GB 亮黑色
+    "MNG02CH/A" : "NONE",//iPhone 7 Plus 256GB 亮黑色
+    "MNFR2CH/A" : "NONE",//iPhone 7 Plus 128GB 金色
+    "MNRL2CH/A" : "ALL", //iPhone 7 Plus 32GB 金色
+    "MNH12CH/A" : "ALL", //iPhone 7 128GB 玫瑰金色
+    "MNH42CH/A" : "NONE",//iPhone 7 256GB 银色
+    "MNH72CH/A" : "NONE",//iPhone 7 256GB 亮黑色
+    "MNRM2CH/A" : "NONE",//iPhone 7 Plus 32GB 玫瑰金色
+    "MNFX2CH/A" : "NONE",//iPhone 7 Plus 256GB 金色
+    "MNH02CH/A" : "ALL", //iPhone 7 128GB 金色
+    "MNGY2CH/A" : "ALL", //iPhone 7 128GB 银色
+    "MNFQ2CH/A" : "NONE",//iPhone 7 Plus 128GB 银色
+    "MNGX2CH/A" : "NONE",//iPhone 7 128GB 黑色
+    "MNGR2CH/A" : "NONE",//iPhone 7 32GB 银色
+    "MNH32CH/A" : "NONE",//iPhone 7 256GB 黑色
+    "MNRK2CH/A" : "NONE",//iPhone 7 Plus 32GB 银色
+    "MNFT2CH/A" : "NONE",//iPhone 7 Plus 128GB 玫瑰金色
+    "MNFW2CH/A" : "NONE",//iPhone 7 Plus 256GB 银色
+    "MNH62CH/A" : "NONE",//iPhone 7 256GB 玫瑰金色
+    "MNFY2CH/A" : "NONE",//iPhone 7 Plus 256GB 玫瑰金色
+    "MNFP2CH/A" : "NONE",//iPhone 7 Plus 128GB 黑色
+    "MNGT2CH/A" : "ALL",//iPhone 7 32GB 金色
+    "MNGW2CH/A" : "ALL",//iPhone 7 32GB 玫瑰金色
+    "MNH52CH/A" : "NONE",//iPhone 7 256GB 金色
+    "MNGQ2CH/A" : "NONE",//iPhone 7 32GB 黑色
+    "MNH22CH/A" : "NONE",//iPhone 7 128GB 亮黑色
+    "MNFV2CH/A" : "NONE"//iPhone 7 Plus 256GB 黑色
   },
   "R646" : {
     "MNRJ2CH/A" : "NONE",
@@ -516,13 +516,13 @@
     "MNG02CH/A" : "NONE",
     "MNFR2CH/A" : "NONE",
     "MNRL2CH/A" : "NONE",
-    "MNH12CH/A" : "ALL",
-    "MNH42CH/A" : "ALL",
+    "MNH12CH/A" : "ALL",//玫瑰金 128G 7
+    "MNH42CH/A" : "ALL",//银色 256G 7
     "MNH72CH/A" : "NONE",
     "MNRM2CH/A" : "NONE",
     "MNFX2CH/A" : "NONE",
-    "MNH02CH/A" : "ALL",
-    "MNGY2CH/A" : "ALL",
+    "MNH02CH/A" : "ALL",//土豪金 128G 7
+    "MNGY2CH/A" : "ALL",//银色 128G 7
     "MNFQ2CH/A" : "NONE",
     "MNGX2CH/A" : "NONE",
     "MNGR2CH/A" : "NONE",
@@ -530,12 +530,12 @@
     "MNRK2CH/A" : "NONE",
     "MNFT2CH/A" : "NONE",
     "MNFW2CH/A" : "NONE",
-    "MNH62CH/A" : "ALL",
+    "MNH62CH/A" : "ALL",//玫瑰金 256G 7
     "MNFY2CH/A" : "NONE",
     "MNFP2CH/A" : "NONE",
     "MNGT2CH/A" : "NONE",
-    "MNGW2CH/A" : "ALL",
-    "MNH52CH/A" : "ALL",
+    "MNGW2CH/A" : "ALL",//玫瑰金 32G 7
+    "MNH52CH/A" : "ALL",//土豪金 256G 7
     "MNGQ2CH/A" : "NONE",
     "MNH22CH/A" : "NONE",
     "MNFV2CH/A" : "NONE"
