@@ -1,0 +1,17 @@
+{
+  "name": "crawler4iphone7plus",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "sven.li",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "superagent": "^2.2.0"
+  }
+}
