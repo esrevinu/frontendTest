@@ -33,7 +33,9 @@ var ep = new eventproxy(),
         'MNFP2CH/A':'iPhone 7 Plus 128GB 黑色',
         'MNFV2CH/A':'iPhone 7 Plus 256GB 黑色',
         // 'MNH12CH/A':'iPhone 7 128GB 玫瑰金色'
-        };
+        },
+    INTERVAL = 2000,//This value should be more than the time of one access, or it will throw a error
+    COUNT = 10;
 // 主start程序
 function start(){
     function onRequest(req, res){
@@ -63,7 +65,7 @@ function start(){
                     res.write(`<p>本次刷新消耗了 ${endTime-startTime} ms</p>`);
                     res.write(`<p>已经刷新${count}次</p>`);
                     count++;
-                    if(flag || count>=10){
+                    if(flag || count >= COUNT){
                         if(flag)
                             res.write("<p>已经查到</p>");
                         else
@@ -72,7 +74,7 @@ function start(){
                         res.end();
                     }
                 });
-        },1000);
+        },INTERVAL);
     }
     http.createServer(onRequest).listen(3000);
 }
