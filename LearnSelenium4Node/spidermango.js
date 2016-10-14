@@ -13,7 +13,9 @@ var driver = new webdriver.Builder()
 
 driver.get(url);
 driver.findElement(By.css('textarea')).sendKeys(_generateActions());
+driver.sleep(5000);
 driver.findElement(By.css('input[value="执行"]')).click();
+
 
 // driver.wait(until.titleIs('webdriver_百度搜索'), 5000);
 // driver.quit();
